@@ -1,47 +1,61 @@
 const fs = require('fs');
 const path = require('path');
 
+// Function to capitalize a single word, handling special cases and parentheses
+function capitalizeWord(word, isFirstWord = false) {
+    if (!word) return '';
+    
+    // Handle special cases for common words
+    const specialWords = {
+        'de': 'de',
+        'del': 'del',
+        'la': 'la',
+        'el': 'el',
+        'los': 'los',
+        'las': 'las',
+        'y': 'y',
+        'en': 'en',
+        'con': 'con',
+        'por': 'por',
+        'para': 'para',
+        'al': 'al',
+        'da': 'da',
+        'do': 'do',
+        'dos': 'dos',
+        'das': 'das',
+        'e': 'e',
+        'o': 'o',
+        'a': 'a',
+        'ao': 'ao',
+        'aos': 'aos',
+        'as': 'as'
+    };
+    
+    // Handle words that start with parentheses
+    if (word.startsWith('(')) {
+        const content = word.slice(1); // Remove opening parenthesis
+        
+        // Recursively capitalize the content inside parentheses
+        const capitalizedContent = capitalizeWord(content, true); // Treat as first word
+        return '(' + capitalizedContent;
+    }
+    
+    // If it's a special word, keep it lowercase UNLESS it's the first word
+    if (specialWords[word] && !isFirstWord) {
+        return specialWords[word];
+    }
+    
+    // Capitalize the first letter of each word
+    return word.charAt(0).toUpperCase() + word.slice(1);
+}
+
 // Function to convert text to proper capitalization
 function toProperCase(text) {
     if (!text) return '';
     
     return text.toLowerCase()
         .split(' ')
-        .map((word, index) => {
-            // Handle special cases for common words
-            const specialWords = {
-                'de': 'de',
-                'del': 'del',
-                'la': 'la',
-                'el': 'el',
-                'los': 'los',
-                'las': 'las',
-                'y': 'y',
-                'en': 'en',
-                'con': 'con',
-                'por': 'por',
-                'para': 'para',
-                'al': 'al',
-                'da': 'da',
-                'do': 'do',
-                'dos': 'dos',
-                'das': 'das',
-                'e': 'e',
-                'o': 'o',
-                'a': 'a',
-                'ao': 'ao',
-                'aos': 'aos',
-                'as': 'as'
-            };
-            
-            // If it's a special word, keep it lowercase UNLESS it's the first word
-            if (specialWords[word] && index > 0) {
-                return specialWords[word];
-            }
-            
-            // Capitalize the first letter of each word
-            return word.charAt(0).toUpperCase() + word.slice(1);
-        })
+        .map((word, index) => capitalizeWord(word, index === 0))
         .join(' ');
 }
 
@@ -59,11 +73,18 @@ function parseCSV(csvContent) {
         const columns = line.split(',').map(col => col.replace(/"/g, '').trim());
         
         if (columns.length >= 7) {
+            let cantonNombre = columns[4];
+            
+            // Fix Quito canton name
+            if (cantonNombre === 'DISTRITO METROPOLITANO DE QUITO') {
+                cantonNombre = 'QUITO';
+            }
+            
             data.push({
                 provinciaCodigo: columns[1],
                 provinciaNombre: columns[2],
                 cantonCodigo: columns[3],
-                cantonNombre: columns[4],
+                cantonNombre: cantonNombre,
                 parroquiaCodigo: columns[5],
                 parroquiaNombre: columns[6]
             });

@@ -826,9 +826,9 @@
     "nombre": "Guayas",
     "cantones": [
       {
-        "nombre": "Alfredo Baquerizo Moreno (juján)",
+        "nombre": "Alfredo Baquerizo Moreno (Juján)",
         "parroquias": [
-          "Alfredo Baquerizo Moreno (juján)"
+          "Alfredo Baquerizo Moreno (Juján)"
         ]
       },
       {
@@ -1859,7 +1859,42 @@
         ]
       },
       {
-        "nombre": "Distrito Metropolitano de Quito",
+        "nombre": "Mejía",
+        "parroquias": [
+          "Aloag",
+          "Aloasí",
+          "Cutuglahua",
+          "El Chaupi",
+          "Machachi",
+          "Manuel Cornejo Astorga",
+          "Tambillo",
+          "Uyumbicho"
+        ]
+      },
+      {
+        "nombre": "Pedro Moncayo",
+        "parroquias": [
+          "La Esperanza",
+          "Malchinguí",
+          "Tabacundo",
+          "Tocachi",
+          "Tupigachi"
+        ]
+      },
+      {
+        "nombre": "Pedro Vicente Maldonado",
+        "parroquias": [
+          "Pedro Vicente Maldonado"
+        ]
+      },
+      {
+        "nombre": "Puerto Quito",
+        "parroquias": [
+          "Puerto Quito"
+        ]
+      },
+      {
+        "nombre": "Quito",
         "parroquias": [
           "Alangasí",
           "Amaguaña",
@@ -1895,41 +1930,6 @@
           "Tumbaco",
           "Yaruquí",
           "Zámbiza"
-        ]
-      },
-      {
-        "nombre": "Mejía",
-        "parroquias": [
-          "Aloag",
-          "Aloasí",
-          "Cutuglahua",
-          "El Chaupi",
-          "Machachi",
-          "Manuel Cornejo Astorga",
-          "Tambillo",
-          "Uyumbicho"
-        ]
-      },
-      {
-        "nombre": "Pedro Moncayo",
-        "parroquias": [
-          "La Esperanza",
-          "Malchinguí",
-          "Tabacundo",
-          "Tocachi",
-          "Tupigachi"
-        ]
-      },
-      {
-        "nombre": "Pedro Vicente Maldonado",
-        "parroquias": [
-          "Pedro Vicente Maldonado"
-        ]
-      },
-      {
-        "nombre": "Puerto Quito",
-        "parroquias": [
-          "Puerto Quito"
         ]
       },
       {
@@ -2272,17 +2272,6 @@
           "San Carlos de las Minas",
           "Timbara",
           "Zamora"
-        ]
-      }
-    ]
-  },
-  {
-    "nombre": "Zona en Estudio",
-    "cantones": [
-      {
-        "nombre": "Juval",
-        "parroquias": [
-          "Juval (cañar-chimborazo)"
         ]
       }
     ]
