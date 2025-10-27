@@ -1,0 +1,13 @@
+# Ignore CSV files
+*.csv
+
+# Ignore node_modules if any
+node_modules/
+
+# Ignore any temporary files
+*.tmp
+*.temp
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
