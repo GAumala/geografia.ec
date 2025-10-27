@@ -8,7 +8,7 @@ Puedes descargar directamente el archivo `provincias.json` desde este repositori
 
 ```bash
 # Usando curl
-curl -O https://raw.githubusercontent.com/[tu-usuario]/geografia.ec/main/provincias.json
+curl -O https://raw.githubusercontent.com/GAumala/geografia.ec/main/provincias.json
 
 # Usando wget
 wget https://raw.githubusercontent.com/[tu-usuario]/geografia.ec/main/provincias.json
