@@ -12,10 +12,10 @@
         "nombre": "Chordeleg",
         "parroquias": [
           "Chordeleg",
+          "La Unión",
           "Luis Galarza Orellana",
           "Principal",
-          "San Martín de Puzhio",
-          "la Unión"
+          "San Martín de Puzhio"
         ]
       },
       {
@@ -46,18 +46,18 @@
         ]
       },
       {
-        "nombre": "el Pan",
+        "nombre": "El Pan",
         "parroquias": [
-          "San Vicente",
-          "el Pan"
+          "El Pan",
+          "San Vicente"
         ]
       },
       {
         "nombre": "Girón",
         "parroquias": [
           "Girón",
-          "San Gerardo",
-          "la Asunción"
+          "La Asunción",
+          "San Gerardo"
         ]
       },
       {
@@ -84,9 +84,9 @@
         "nombre": "Nabón",
         "parroquias": [
           "Cochapata",
-          "Nabón",
-          "el Progreso",
-          "las Nieves"
+          "El Progreso",
+          "Las Nieves",
+          "Nabón"
         ]
       },
       {
@@ -102,11 +102,11 @@
           "Bulán",
           "Chicán",
           "Dug Dug",
+          "El Cabo",
           "Guarainag",
           "Paute",
           "San Cristóbal",
-          "Tomebamba",
-          "el Cabo"
+          "Tomebamba"
         ]
       },
       {
@@ -127,10 +127,10 @@
         "nombre": "Santa Isabel",
         "parroquias": [
           "Abdón Calderón",
+          "El Carmen de Pijilí",
           "San Salvador de Cañaribamba",
           "Santa Isabel",
-          "Shaglli",
-          "el Carmen de Pijilí"
+          "Shaglli"
         ]
       },
       {
@@ -175,10 +175,10 @@
         "nombre": "Chimbo",
         "parroquias": [
           "Asunción",
+          "La Magdalena",
           "San José de Chimbo",
           "San Sebastián",
-          "Telimbela",
-          "la Magdalena"
+          "Telimbela"
         ]
       },
       {
@@ -202,9 +202,9 @@
         ]
       },
       {
-        "nombre": "las Naves",
+        "nombre": "Las Naves",
         "parroquias": [
-          "las Naves"
+          "Las Naves"
         ]
       },
       {
@@ -273,17 +273,17 @@
         ]
       },
       {
-        "nombre": "el Tambo",
+        "nombre": "El Tambo",
         "parroquias": [
-          "el Tambo"
+          "El Tambo"
         ]
       },
       {
-        "nombre": "la Troncal",
+        "nombre": "La Troncal",
         "parroquias": [
+          "La Troncal",
           "Manuel J. Calle",
-          "Pancho Negro",
-          "la Troncal"
+          "Pancho Negro"
         ]
       },
       {
@@ -302,19 +302,19 @@
         "parroquias": [
           "Bolívar",
           "García Moreno",
+          "Los Andes",
           "Monte Olivo",
           "San Rafael",
-          "San Vicente de Pusir",
-          "los Andes"
+          "San Vicente de Pusir"
         ]
       },
       {
         "nombre": "Espejo",
         "parroquias": [
-          "San Isidro",
-          "el Goaltal",
-          "el Ángel",
-          "la Libertad"
+          "El Goaltal",
+          "El Ángel",
+          "La Libertad",
+          "San Isidro"
         ]
       },
       {
@@ -332,9 +332,9 @@
           "Chitán de Navarrete",
           "Cristóbal Colón",
           "Fernández Salvador",
+          "La Paz",
           "Piartal",
-          "San Gabriel",
-          "la Paz"
+          "San Gabriel"
         ]
       },
       {
@@ -347,6 +347,8 @@
       {
         "nombre": "Tulcán",
         "parroquias": [
+          "El Carmelo",
+          "El Chical",
           "Julio Andrade",
           "Maldonado",
           "Pioter",
@@ -354,9 +356,7 @@
           "Tobar Donoso",
           "Tufiño",
           "Tulcán",
-          "Urbina",
-          "el Carmelo",
-          "el Chical"
+          "Urbina"
         ]
       }
     ]
@@ -425,13 +425,13 @@
           "Guanando",
           "Guano",
           "Ilapo",
+          "La Providencia",
           "San Andrés",
           "San Gerardo",
           "San Isidro de Patulú",
           "San José del Chazo",
           "Santa Fé de Galán",
-          "Valparaiso",
-          "la Providencia"
+          "Valparaiso"
         ]
       },
       {
@@ -444,12 +444,12 @@
         "nombre": "Penipe",
         "parroquias": [
           "Bilbao",
+          "El Altar",
+          "La Candelaria",
           "Matus",
           "Penipe",
           "Puela",
-          "San Antonio de Bayushig",
-          "el Altar",
-          "la Candelaria"
+          "San Antonio de Bayushig"
         ]
       },
       {
@@ -475,11 +475,11 @@
     "nombre": "Cotopaxi",
     "cantones": [
       {
-        "nombre": "la Maná",
+        "nombre": "La Maná",
         "parroquias": [
           "Guasaganda",
-          "Pucayacu",
-          "la Maná"
+          "La Maná",
+          "Pucayacu"
         ]
       },
       {
@@ -501,10 +501,10 @@
       {
         "nombre": "Pangua",
         "parroquias": [
+          "El Corazón",
           "Moraspungo",
           "Pinllopata",
-          "Ramón Campaña",
-          "el Corazón"
+          "Ramón Campaña"
         ]
       },
       {
@@ -512,11 +512,11 @@
         "parroquias": [
           "Angamarca",
           "Guangaje",
+          "La Victoria",
           "Pilaló",
           "Pujilí",
           "Tingo",
-          "Zumbahua",
-          "la Victoria"
+          "Zumbahua"
         ]
       },
       {
@@ -544,15 +544,15 @@
         "parroquias": [
           "Chugchillán",
           "Isinlivi",
+          "Las Pampas",
           "Palo Quemado",
-          "Sigchos",
-          "las Pampas"
+          "Sigchos"
         ]
       }
     ]
   },
   {
-    "nombre": "el Oro",
+    "nombre": "El Oro",
     "cantones": [
       {
         "nombre": "Arenillas",
@@ -560,8 +560,8 @@
           "Arenillas",
           "Carcabón",
           "Chacras",
-          "Palmales",
-          "la Cuca"
+          "La Cuca",
+          "Palmales"
         ]
       },
       {
@@ -589,13 +589,13 @@
         ]
       },
       {
-        "nombre": "el Guabo",
+        "nombre": "El Guabo",
         "parroquias": [
           "Barbones",
+          "El Guabo",
+          "La Iberia",
           "Río Bonito",
-          "Tendales",
-          "el Guabo",
-          "la Iberia"
+          "Tendales"
         ]
       },
       {
@@ -605,26 +605,26 @@
         ]
       },
       {
-        "nombre": "las Lajas",
+        "nombre": "Las Lajas",
         "parroquias": [
-          "San Isidro",
-          "el Paraíso",
-          "la Libertad",
-          "la Victoria"
+          "El Paraíso",
+          "La Libertad",
+          "La Victoria",
+          "San Isidro"
         ]
       },
       {
         "nombre": "Machala",
         "parroquias": [
-          "Machala",
-          "el Retiro"
+          "El Retiro",
+          "Machala"
         ]
       },
       {
         "nombre": "Marcabelí",
         "parroquias": [
-          "Marcabelí",
-          "el Ingenio"
+          "El Ingenio",
+          "Marcabelí"
         ]
       },
       {
@@ -633,22 +633,22 @@
           "Buenavista",
           "Casacay",
           "Cañaquemada",
+          "La Peaña",
           "Pasaje",
           "Progreso",
-          "Uzhcurrumi",
-          "la Peaña"
+          "Uzhcurrumi"
         ]
       },
       {
         "nombre": "Piñas",
         "parroquias": [
           "Capiro",
+          "La Bocana",
           "Moromoro",
           "Piedras",
           "Piñas",
           "San Roque",
-          "Saracay",
-          "la Bocana"
+          "Saracay"
         ]
       },
       {
@@ -666,11 +666,11 @@
           "Bellamaría",
           "Bellavista",
           "Jambelí",
+          "La Avanzada",
           "San Antonio",
           "Santa Rosa",
           "Torata",
-          "Victoria",
-          "la Avanzada"
+          "Victoria"
         ]
       },
       {
@@ -697,10 +697,10 @@
         "nombre": "Atacames",
         "parroquias": [
           "Atacames",
+          "La Unión",
           "Súa",
           "Tonchigüe",
-          "Tonsupa",
-          "la Unión"
+          "Tonsupa"
         ]
       },
       {
@@ -710,6 +710,7 @@
           "Atahualpa",
           "Borbón",
           "Colón Eloy del María",
+          "La Tola",
           "Luis Vargas Torres",
           "Maldonado",
           "Pampanal de Bolívar",
@@ -720,8 +721,7 @@
           "Selva Alegre",
           "Telembí",
           "Timbiré",
-          "Valdez",
-          "la Tola"
+          "Valdez"
         ]
       },
       {
@@ -757,10 +757,10 @@
         "parroquias": [
           "Chura",
           "Cube",
+          "La Unión",
           "Malimpia",
           "Rosa Zárate",
-          "Viche",
-          "la Unión"
+          "Viche"
         ]
       },
       {
@@ -807,9 +807,9 @@
       {
         "nombre": "San Cristóbal",
         "parroquias": [
+          "El Progreso",
           "Isla Santa María Floreana",
-          "Puerto Baquerizo Moreno",
-          "el Progreso"
+          "Puerto Baquerizo Moreno"
         ]
       },
       {
@@ -863,7 +863,7 @@
           "Juan Bautista Aguirre",
           "Laurel",
           "Limonal",
-          "los Lojas"
+          "Los Lojas"
         ]
       },
       {
@@ -873,17 +873,17 @@
         ]
       },
       {
-        "nombre": "el Empalme",
+        "nombre": "El Empalme",
         "parroquias": [
+          "El Rosario",
           "Guayas",
-          "Velasco Ibarra",
-          "el Rosario"
+          "Velasco Ibarra"
         ]
       },
       {
-        "nombre": "el Triunfo",
+        "nombre": "El Triunfo",
         "parroquias": [
-          "el Triunfo"
+          "El Triunfo"
         ]
       },
       {
@@ -969,10 +969,10 @@
       {
         "nombre": "Salitre",
         "parroquias": [
+          "El Salitre",
           "General Vernaza",
           "Junquillal",
-          "el Salitre",
-          "la Victoria"
+          "La Victoria"
         ]
       },
       {
@@ -1038,12 +1038,12 @@
         "parroquias": [
           "Ambuquí",
           "Angochagua",
+          "La Carolina",
+          "La Esperanza",
           "Lita",
           "Salinas",
           "San Antonio",
-          "San Miguel de Ibarra",
-          "la Carolina",
-          "la Esperanza"
+          "San Miguel de Ibarra"
         ]
       },
       {
@@ -1074,11 +1074,11 @@
         "nombre": "San Miguel de Urcuquí",
         "parroquias": [
           "Cahuasquí",
+          "La Merced de Buenos Aires",
           "Pablo Arenas",
           "San Blas",
           "Tumbabiro",
-          "Urcuquí",
-          "la Merced de Buenos Aires"
+          "Urcuquí"
         ]
       }
     ]
@@ -1091,19 +1091,19 @@
         "parroquias": [
           "Cariamanga",
           "Colaisaca",
+          "El Lucero",
           "Sanguillín",
-          "Utuana",
-          "el Lucero"
+          "Utuana"
         ]
       },
       {
         "nombre": "Catamayo",
         "parroquias": [
           "Catamayo",
+          "El Tambo",
           "Guayquichuma",
           "San Pedro de la Bendita",
-          "Zambi",
-          "el Tambo"
+          "Zambi"
         ]
       },
       {
@@ -1122,8 +1122,8 @@
           "Amarillos",
           "Buenavista",
           "Chaguarpamba",
-          "Santa Rufina",
-          "el Rosario"
+          "El Rosario",
+          "Santa Rufina"
         ]
       },
       {
@@ -1132,10 +1132,10 @@
           "27 de Abril",
           "Amaluza",
           "Bellavista",
+          "El Airo",
+          "El Ingenio",
           "Jimbura",
-          "Santa Teresita",
-          "el Airo",
-          "el Ingenio"
+          "Santa Teresita"
         ]
       },
       {
@@ -1153,6 +1153,7 @@
         "parroquias": [
           "Chantaco",
           "Chuquiribamba",
+          "El Cisne",
           "Gualel",
           "Jimbilla",
           "Loja",
@@ -1163,24 +1164,23 @@
           "Santiago",
           "Taquil",
           "Vilcabamba",
-          "Yangana",
-          "el Cisne"
+          "Yangana"
         ]
       },
       {
         "nombre": "Macará",
         "parroquias": [
+          "La Victoria",
           "Larama",
           "Macará",
-          "Sabiango",
-          "la Victoria"
+          "Sabiango"
         ]
       },
       {
         "nombre": "Olmedo",
         "parroquias": [
-          "Olmedo",
-          "la Tingue"
+          "La Tingue",
+          "Olmedo"
         ]
       },
       {
@@ -1210,10 +1210,10 @@
         "parroquias": [
           "Alamor",
           "Ciano",
+          "El Arenal",
+          "El Limo",
           "Mercadillo",
-          "Vicentino",
-          "el Arenal",
-          "el Limo"
+          "Vicentino"
         ]
       },
       {
@@ -1227,6 +1227,8 @@
       {
         "nombre": "Saraguro",
         "parroquias": [
+          "El Paraíso de Celen",
+          "El Tablón",
           "Lluzhapa",
           "Manú",
           "San Antonio de Qumbe",
@@ -1235,9 +1237,7 @@
           "Saraguro",
           "Selva Alegre",
           "Sumaypamba",
-          "Urdaneta",
-          "el Paraíso de Celen",
-          "el Tablón"
+          "Urdaneta"
         ]
       },
       {
@@ -1263,7 +1263,7 @@
     ]
   },
   {
-    "nombre": "los Ríos",
+    "nombre": "Los Ríos",
     "cantones": [
       {
         "nombre": "Baba",
@@ -1279,8 +1279,8 @@
           "Babahoyo",
           "Caracol",
           "Febres Cordero",
-          "Pimocha",
-          "la Unión"
+          "La Unión",
+          "Pimocha"
         ]
       },
       {
@@ -1299,8 +1299,8 @@
       {
         "nombre": "Montalvo",
         "parroquias": [
-          "Montalvo",
-          "la Esmeralda"
+          "La Esmeralda",
+          "Montalvo"
         ]
       },
       {
@@ -1320,9 +1320,9 @@
       {
         "nombre": "Quevedo",
         "parroquias": [
+          "La Esperanza",
           "Quevedo",
-          "San Carlos",
-          "la Esperanza"
+          "San Carlos"
         ]
       },
       {
@@ -1348,9 +1348,9 @@
         "nombre": "Ventanas",
         "parroquias": [
           "Chacarita",
+          "Los Ángeles",
           "Ventanas",
-          "Zapotal",
-          "los Ángeles"
+          "Zapotal"
         ]
       },
       {
@@ -1396,13 +1396,13 @@
         ]
       },
       {
-        "nombre": "el Carmen",
+        "nombre": "El Carmen",
         "parroquias": [
+          "El Carmen",
+          "El Paraíso la 14",
           "San Pedro de Suma",
           "Santa María",
-          "Wilfrido Loor Moreira",
-          "el Carmen",
-          "el Paraíso la 14"
+          "Wilfrido Loor Moreira"
         ]
       },
       {
@@ -1429,13 +1429,13 @@
         "nombre": "Jipijapa",
         "parroquias": [
           "América",
+          "El Anegado",
           "Jipijapa",
           "Julcuy",
+          "La Unión",
           "Membrillal",
           "Pedro Pablo Gómez",
-          "Puerto Cayo",
-          "el Anegado",
-          "la Unión"
+          "Puerto Cayo"
         ]
       },
       {
@@ -1455,8 +1455,8 @@
       {
         "nombre": "Montecristi",
         "parroquias": [
-          "Montecristi",
-          "la Pila"
+          "La Pila",
+          "Montecristi"
         ]
       },
       {
@@ -1532,9 +1532,9 @@
         "parroquias": [
           "Ayacucho",
           "Honorato Vásquez",
+          "La Unión",
           "San Pablo",
-          "Santa Ana de Vuelta Larga",
-          "la Unión"
+          "Santa Ana de Vuelta Larga"
         ]
       },
       {
@@ -1565,11 +1565,11 @@
           "Bermejos",
           "Bomboíza",
           "Chigüinda",
+          "El Ideal",
+          "El Rosario",
           "Gualaquiza",
           "Nueva Tarqui",
-          "San Miguel de Cuyes",
-          "el Ideal",
-          "el Rosario"
+          "San Miguel de Cuyes"
         ]
       },
       {
@@ -1703,14 +1703,14 @@
         ]
       },
       {
-        "nombre": "el Chaco",
+        "nombre": "El Chaco",
         "parroquias": [
+          "El Chaco",
           "Gonzalo Díaz de Pineda",
           "Linares",
           "Oyacachi",
           "Santa Rosa",
-          "Sardinas",
-          "el Chaco"
+          "Sardinas"
         ]
       },
       {
@@ -1757,30 +1757,30 @@
         "parroquias": [
           "Alejandro Labaka",
           "Dayuma",
+          "El Coca",
+          "El Dorado",
+          "El Edén",
           "García Moreno",
           "Inés Arango",
+          "La Belleza",
           "Nuevo Paraíso",
           "San José de Guayusa",
           "San Luis de Armenia",
-          "Taracoa",
-          "el Coca",
-          "el Dorado",
-          "el Edén",
-          "la Belleza"
+          "Taracoa"
         ]
       },
       {
-        "nombre": "la Joya de los Sachas",
+        "nombre": "La Joya de los Sachas",
         "parroquias": [
           "Enokanqui",
+          "La Joya de los Sachas",
           "Lago San Pedro",
           "Pompeya",
           "Rumipamba",
           "San Carlos",
           "San Sebastián del Coca",
           "Tres de Noviembre",
-          "Unión Milagreña",
-          "la Joya de los Sachas"
+          "Unión Milagreña"
         ]
       },
       {
@@ -1819,6 +1819,7 @@
         "parroquias": [
           "Canelos",
           "Diez de Agosto",
+          "El Triunfo",
           "Fátima",
           "Montalvo",
           "Pomona",
@@ -1829,8 +1830,7 @@
           "Simón Bolívar",
           "Tarqui",
           "Teniente Hugo Ortiz",
-          "Veracruz",
-          "el Triunfo"
+          "Veracruz"
         ]
       },
       {
@@ -1870,9 +1870,11 @@
           "Checa",
           "Conocoto",
           "Cumbayá",
+          "El Quinche",
           "Gualea",
           "Guangopolo",
           "Guayllabamba",
+          "La Merced",
           "Llano Chico",
           "Lloa",
           "Nanegal",
@@ -1892,9 +1894,7 @@
           "Tababela",
           "Tumbaco",
           "Yaruquí",
-          "Zámbiza",
-          "el Quinche",
-          "la Merced"
+          "Zámbiza"
         ]
       },
       {
@@ -1903,21 +1903,21 @@
           "Aloag",
           "Aloasí",
           "Cutuglahua",
+          "El Chaupi",
           "Machachi",
           "Manuel Cornejo Astorga",
           "Tambillo",
-          "Uyumbicho",
-          "el Chaupi"
+          "Uyumbicho"
         ]
       },
       {
         "nombre": "Pedro Moncayo",
         "parroquias": [
+          "La Esperanza",
           "Malchinguí",
           "Tabacundo",
           "Tocachi",
-          "Tupigachi",
-          "la Esperanza"
+          "Tupigachi"
         ]
       },
       {
@@ -1953,9 +1953,9 @@
     "nombre": "Santa Elena",
     "cantones": [
       {
-        "nombre": "la Libertad",
+        "nombre": "La Libertad",
         "parroquias": [
-          "la Libertad"
+          "La Libertad"
         ]
       },
       {
@@ -1984,25 +1984,25 @@
     "nombre": "Santo Domingo de los Tsáchilas",
     "cantones": [
       {
-        "nombre": "la Concordia",
+        "nombre": "La Concordia",
         "parroquias": [
+          "La Concordia",
+          "La Villegas",
           "Monterrey",
-          "Plan Piloto",
-          "la Concordia",
-          "la Villegas"
+          "Plan Piloto"
         ]
       },
       {
         "nombre": "Santo Domingo",
         "parroquias": [
           "Alluriquín",
+          "El Esfuerzo",
           "Luz de América",
           "Puerto Limón",
           "San Jacinto del Búa",
           "Santa María del Toachi",
           "Santo Domingo de los Colorados",
-          "Valle Hermoso",
-          "el Esfuerzo"
+          "Valle Hermoso"
         ]
       }
     ]
@@ -2013,10 +2013,10 @@
       {
         "nombre": "Cascales",
         "parroquias": [
+          "El Dorado de Cascales",
           "Nueva Troncal",
           "Santa Rosa de Sucumbíos",
-          "Sevilla",
-          "el Dorado de Cascales"
+          "Sevilla"
         ]
       },
       {
@@ -2030,10 +2030,10 @@
       {
         "nombre": "Gonzalo Pizarro",
         "parroquias": [
+          "El Reventador",
           "Gonzalo Pizarro",
           "Lumbaquí",
-          "Puerto Libre",
-          "el Reventador"
+          "Puerto Libre"
         ]
       },
       {
@@ -2041,12 +2041,12 @@
         "parroquias": [
           "10 de Agosto",
           "Dureno",
+          "El Eno",
           "General Farfán",
           "Jambelí",
           "Nueva Loja",
           "Pacayacu",
-          "Santa Cecilia",
-          "el Eno"
+          "Santa Cecilia"
         ]
       },
       {
@@ -2063,24 +2063,24 @@
       {
         "nombre": "Shushufindi",
         "parroquias": [
+          "La Magdalena",
+          "La Primavera",
           "Limoncocha",
           "Pañacocha",
           "San Pedro de los Cofánes",
           "San Roque",
           "Shushufindi",
-          "Siete de Julio",
-          "la Magdalena",
-          "la Primavera"
+          "Siete de Julio"
         ]
       },
       {
         "nombre": "Sucumbíos",
         "parroquias": [
+          "El Playón de San Francisco",
+          "La Bonita",
+          "La Sofía",
           "Rosa Florida",
-          "Santa Bárbara",
-          "el Playón de San Francisco",
-          "la Bonita",
-          "la Sofía"
+          "Santa Bárbara"
         ]
       }
     ]
@@ -2138,10 +2138,10 @@
       {
         "nombre": "Patate",
         "parroquias": [
+          "El Triunfo",
+          "Los Andes",
           "Patate",
-          "Sucre",
-          "el Triunfo",
-          "los Andes"
+          "Sucre"
         ]
       },
       {
@@ -2159,11 +2159,11 @@
           "Bolívar",
           "Chiquicha",
           "Cotaló",
+          "El Rosario",
           "García Moreno",
           "Guambaló",
           "Pelileo",
-          "Salasaca",
-          "el Rosario"
+          "Salasaca"
         ]
       },
       {
@@ -2203,20 +2203,20 @@
         "nombre": "Chinchipe",
         "parroquias": [
           "Chito",
+          "El Chorro",
+          "La Chonta",
           "Pucapamba",
           "San Andrés",
-          "Zumba",
-          "el Chorro",
-          "la Chonta"
+          "Zumba"
         ]
       },
       {
-        "nombre": "el Pangui",
+        "nombre": "El Pangui",
         "parroquias": [
+          "El Guisme",
+          "El Pangui",
           "Pachicutza",
-          "Tundayme",
-          "el Guisme",
-          "el Pangui"
+          "Tundayme"
         ]
       },
       {
@@ -2231,11 +2231,11 @@
       {
         "nombre": "Palanda",
         "parroquias": [
+          "El Porvenir del Carmen",
+          "La Canela",
           "Palanda",
           "San Francisco del Vergel",
-          "Valladolid",
-          "el Porvenir del Carmen",
-          "la Canela"
+          "Valladolid"
         ]
       },
       {
@@ -2250,16 +2250,16 @@
         "nombre": "Yacuambi",
         "parroquias": [
           "28 de Mayo",
-          "Tutupali",
-          "la Paz"
+          "La Paz",
+          "Tutupali"
         ]
       },
       {
         "nombre": "Yantzaza",
         "parroquias": [
           "Chicaña",
-          "Yantzaza",
-          "los Encuentros"
+          "Los Encuentros",
+          "Yantzaza"
         ]
       },
       {

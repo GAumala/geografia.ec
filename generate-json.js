@@ -7,7 +7,7 @@ function toProperCase(text) {
     
     return text.toLowerCase()
         .split(' ')
-        .map(word => {
+        .map((word, index) => {
             // Handle special cases for common words
             const specialWords = {
                 'de': 'de',
@@ -34,8 +34,8 @@ function toProperCase(text) {
                 'as': 'as'
             };
             
-            // If it's a special word, keep it lowercase
-            if (specialWords[word]) {
+            // If it's a special word, keep it lowercase UNLESS it's the first word
+            if (specialWords[word] && index > 0) {
                 return specialWords[word];
             }
             
